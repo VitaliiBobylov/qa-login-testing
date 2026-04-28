@@ -1,0 +1,66 @@
+{
+  "catalog": {
+    "people": [
+      {
+        "nameId": "Людина 1",
+        "nameMan": "Ребезюк Василь Петрович",
+        "address": {
+          "city": "Черкаси",
+          "street": "А. Глиняний",
+          "house": "256",
+          "apartment": "321"
+        },
+        "contacts": {
+          "phone": "+3(745)1232456789",
+          "email": "reb@mail.com",
+          "telegram": "@Rebeziuk"
+        }
+      },
+      {
+        "nameId": "Людина 2",
+        "nameMan": "Кучер Артем Пашкович",
+        "address": {
+          "city": "Тельса",
+          "street": "Йоргана",
+          "house": "2",
+          "apartment": "789"
+        },
+        "contacts": {
+          "phone": "+10(005)234567891",
+          "email": "Pasha@mail.com",
+          "telegram": "@Coachman"
+        }
+      },
+      {
+        "nameId": "Людина 3",
+        "nameMan": "Головний Степан Абрамович",
+        "address": {
+          "city": "Тераві",
+          "street": "Туска",
+          "house": "987",
+          "apartment": "4"
+        },
+        "contacts": {
+          "phone": "+357(951)3456789121",
+          "email": "Golova@mail.com",
+          "telegram": "@Main"
+        }
+      },
+      {
+        "nameId": "Людина 4",
+        "nameMan": "Вакула Микола Ільйович",
+        "address": {
+          "city": "Париж",
+          "street": "Квадрата",
+          "house": "56",
+          "apartment": "852"
+        },
+        "contacts": {
+          "phone": "+1(8525)456789123",
+          "email": "molot@mail.com",
+          "telegram": "@Vakula"
+        }
+      }
+    ]
+  }
+}
